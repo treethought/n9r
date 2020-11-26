@@ -32,7 +32,7 @@ s9e
 
 ```sh
 ➜ n9r "jeff goldblum"
-i18n
+j11m
 ```
 
 ## Install
