@@ -4,6 +4,13 @@ Need a hip abbreviation for your project?
 
 numeronyze it!
 
+self birth
+
+```sh
+➜ n9r numeronyzer
+n9r
+```
+
 classic
 
 ```sh

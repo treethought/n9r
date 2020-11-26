@@ -9,10 +9,10 @@ import (
 )
 
 func numeronyze(in string) string {
+	in = strings.Replace(in, " ", "", -1)
 	if len(in) == 0 {
 		return ""
 	}
-	in = strings.Replace(in, " ", "", 0)
 	mid := len(in) - 2
 	last := string(in[len(in)-1])
 	return fmt.Sprintf("%s%d%s", string(in[0]), mid, last)
